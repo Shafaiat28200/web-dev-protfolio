@@ -124,3 +124,26 @@ margin-bottom: 130px;
 .section-description{
     padding: 10px;
 }
+/* resume section */
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+.experience-description, {
+    color: #757575;
+    
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+/* .resume-download-btn-container{
+    margin top: 50px;;
+} */
+ .resume-download-container{
+    margin-top: 50px;
+ }
