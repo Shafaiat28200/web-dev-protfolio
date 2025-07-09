@@ -147,3 +147,26 @@ margin-bottom: 130px;
  .resume-download-container{
     margin-top: 50px;
  }
+ /* footer styles */
+ footer{
+   display: flex;
+   padding: 200px 230px;
+   gap: 50px;
+    
+
+ }
+ .footer-colomn{
+    width: 100%;
+ }
+  footer input[type="text"], footer input[type="Email"], footer textarea{
+ height: 40px;width: 100px;
+border-radius: 10px;
+background-color: white;
+display: block;
+width: 100%;
+font-size: 16px;
+padding: 20px 30px;
+margin-bottom: 24px;
+border: none;
+
+  }
